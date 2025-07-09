@@ -5,5 +5,5 @@
 ## Code 2:- Plotting Without Line
 ![image](https://github.com/user-attachments/assets/3d27e26a-7062-4782-9d6a-f28812db00af)
 
-
 ## Code 3:- Multiple Points
+![image](https://github.com/user-attachments/assets/b3595295-e139-42ae-8c30-1bfef2e7821b)
